@@ -59,7 +59,7 @@ export default async function HomePage() {
             <p className="mb-1 text-2xl">✅</p>
             <p className="text-lg font-bold text-ready">ว่าง พร้อมให้บริการ</p>
             <p className="mt-1 text-sm text-stone-400">
-              ยังไม่มีลูกค้าในคิว เชิญรับบริการได้เลย
+              Page : Mantou Game 
             </p>
           </div>
         )}
